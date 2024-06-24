@@ -5,3 +5,7 @@ table, h1{
 body {
     padding: 20px 100px;
 }
+
+h5 {
+    color: gray;
+}
